@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://ap.luckpool.net:3956",
-    "wallet": "R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d",
+    "pool": "stratum+tcp://verus.wattpool.net:1232",
+    "wallet": "RKh6cinBtWFspyBfK6Xsu8JKJsFyfYmUCr",
     "pass": "x"
 }
