@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://eu.luckpool.net:3956",
+    "pool": "stratum+tcp://ap.luckpool.net:3956",
     "wallet": "R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d",
     "pass": "hybrid"
 }
