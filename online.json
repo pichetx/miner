@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://veruscoin.cedric-crispin.com:4024",
+    "pool": "stratum+tcp://eu.luckpool.net:3956",
     "wallet": "R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d",
-    "pass": "x"
+    "pass": "hybrid"
 }
