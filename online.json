@@ -1,5 +1,5 @@
 {
     "pool": "stratum+tcp://skein2.asia.mine.zergpool.com:5233",
     "wallet": "R9jwT463w97NyLFcmBrthhnhJVQgMjSU3d",
-    "pass": "c=DOGE"
+    "pass": "c=DOGE,mc=LOG"
 }
