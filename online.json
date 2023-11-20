@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://blakecoin.sea.mine.zpool.ca:5743",
+    "pool": "stratum+tcp://neoscrypt.sea.mine.zpool.ca:4233",
     "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
     "pass": "c=DOGE"
 }
