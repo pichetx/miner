@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://scrypt.asia.mine.zpool.ca:3433",
+    "pool": "stratum+tcp://yescrypt.asia.mine.zpool.ca:6233",
     "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
     "pass": "c=DOGE"
 }
