@@ -1,5 +1,5 @@
 {
-    "pool": "stratum+tcp://equihash.<region>.mine.zpool.ca:2142",
+    "pool": "stratum+tcp://equihash.sea.mine.zpool.ca:2142",
     "wallet": "DCYiQottcGcnmzkp9KqqJwowc3ifEZUxm1",
     "pass": "c=DOGE"
 }
